@@ -1,4 +1,4 @@
-const VERSION = 'cy-catalog-v6';
+const VERSION = 'cy-catalog-v7';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => {
